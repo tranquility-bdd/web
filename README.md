@@ -1,1 +1,3 @@
-# tranquility.github.io
+# web
+
+static files for [tranquility-bdd.com](https://tranquility-bdd.com)
